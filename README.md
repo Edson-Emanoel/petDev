@@ -1,5 +1,9 @@
 # Apresentação
 
+* Como ficou no Desktop:
+<img src="./screens/Desktop.png"/>
+
+
 ## Bibliotecas utilizadas:
 
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Componentes%20React-blueviolet?style=flat-square&logo=shadcn/ui)
@@ -13,6 +17,9 @@
 <br>
 
 * Instala o componente de botão do shadcn: `npx shadcn@latest add button`
+<br>
+
+* Instala o componente de carrossel do shadcn: `npm install embla-carousel-react --force`
 <br>
 
 * Instala o phosphor: `npm install @phosphor-icons/react`
