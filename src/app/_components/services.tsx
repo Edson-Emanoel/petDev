@@ -106,12 +106,12 @@ export default function Services() {
             </div>
           </div>
           
-          <button className="bg-white flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute left-3 -translate-y-1/2 -translate-x-1/2 top-1/2" onClick={scrollPrev}>
-            <ChevronLeft className="w-[2.2rem] h-[1.5rem] text-gray-600" />
+          <button className="bg-[#0f141d] flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute left-3 -translate-y-1/2 -translate-x-1/2 top-1/2" onClick={scrollPrev}>
+            <ChevronLeft className="w-[2.2rem] h-[1.5rem] text-slate-400" />
           </button>
           
-          <button className="bg-white flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute -right-6 -translate-y-1/2 -translate-x-1/2 top-1/2" onClick={scrollNext}>
-            <ChevronRight className="w-[2.2rem] h-[1.5rem] text-gray-600" />
+          <button className="bg-[#0f141d] flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute -right-6 -translate-y-1/2 -translate-x-1/2 top-1/2" onClick={scrollNext}>
+            <ChevronRight className="w-[2.2rem] h-[1.5rem] text-slate-400" />
           </button>
 
         </div>
