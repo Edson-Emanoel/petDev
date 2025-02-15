@@ -11,7 +11,7 @@ export default function About() {
             <div className="container px-4 mx-auto">
                   <div className='grid grid-cols-1 lg:grid-cols-2 gap-12 items-center'>
 
-                        <div className='relative'>
+                        <div className='relative' data-aos="fade-up" data-aos-delay="500">
                               <div className="relative w-full h-[400px] rounded-3xl overflow-hidden">
                                     <Image
                                           fill

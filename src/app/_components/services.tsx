@@ -90,7 +90,8 @@ export default function Services() {
                       </div>
 
                       <a
-                        href="#"
+                        target="_blank"
+                        href={`https://wa.me/556799998800?text=Olá vim me pelo site do Pet-Dev e gostaria de mais informações sobre ${item.title}.`}
                         className="flex items-center justify-center gap-2 hover:bg-[#0f151e] transition-colors px-4 py-1 rounded-md duration-700"
                       >
                         <WhatsappLogo className="w-[2.2rem] h-[1.5rem]" />
